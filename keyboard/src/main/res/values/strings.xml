@@ -1,0 +1,5 @@
+<resources>
+    <string name="range">范围</string>
+    <string name="out_of_range">输入超范围</string>
+
+</resources>
