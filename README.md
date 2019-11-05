@@ -3,6 +3,10 @@
 
 ## 数字键盘
 
+### 样式
+
+![加载失败](https://github.com/theshapeofmyheart/strong-keyboard/blob/master/number_keyboard.png)
+
 ### 功能
 
 ⑴ 可输出正负整数、正负小数  
@@ -19,6 +23,10 @@
    参数说明：min表示属性范围下限；max表示属性范围上限； decNumber表示设置小数位数，设置0位表示只能输入整数，设置1或2分表表示1位和2位小数；code用来绑定属性值，方便在完成输入后结果回调时知道是哪个属性，继而对获取的结果值作相应操作；title表示属性名称
 
 ## 字母键盘
+
+![加载失败](https://github.com/theshapeofmyheart/strong-keyboard/blob/master/letter_keyboard.png)
+
+![加载失败](https://github.com/theshapeofmyheart/strong-keyboard/blob/master/letter_psw_keyboard.png)
 
 ### 功能
 
